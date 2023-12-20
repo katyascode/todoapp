@@ -1,5 +1,6 @@
 Made by following @MadeByMatt YouTube tutorial.
 Added my own minor functionality changes, such as: 
+
     * Background, square, and title colour/size
     * Enabling the task to be deleted only by clicking the square to complete it 
     * Changing the flex in the task component
