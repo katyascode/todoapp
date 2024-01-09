@@ -1,4 +1,4 @@
-Made by following @MadeByMatt YouTube tutorial.
+Made by following @MadeByMatt YouTube tutorial. The app is written in ReactNative using Node.js packages & the Expo framework
 Added my own minor aesthetic and functionality changes, such as: 
 
     * Background, square, and title colour/size
